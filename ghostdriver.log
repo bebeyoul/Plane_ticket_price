@@ -1,0 +1,41 @@
+[INFO  - 2022-12-22T21:45:28.533Z] GhostDriver - Main - running on port 51156
+[INFO  - 2022-12-22T21:45:33.050Z] Session [f6048590-8241-11ed-bb19-b16f5a1cbf48] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2022-12-22T21:45:33.051Z] Session [f6048590-8241-11ed-bb19-b16f5a1cbf48] - page.customHeaders:  - {}
+[INFO  - 2022-12-22T21:45:33.051Z] Session [f6048590-8241-11ed-bb19-b16f5a1cbf48] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-12-22T21:45:33.051Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f6048590-8241-11ed-bb19-b16f5a1cbf48
+[ERROR - 2022-12-22T21:45:34.011Z] Session [f6048590-8241-11ed-bb19-b16f5a1cbf48] - page.onError - msg: SyntaxError: Unexpected token '.'
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-12-22T21:45:34.012Z] Session [f6048590-8241-11ed-bb19-b16f5a1cbf48] - page.onError - stack:
+  insertBefore (https://www.liligo.fr/servlet/render?path=/air/results&searchIndex=0&searchId=AAEBAQH__w#/air/results:1)
+  u (https://www.liligo.fr/pagespeed_static/js_defer.I4cHjq6EEP.js:4)
+  (anonymous function) (https://www.liligo.fr/pagespeed_static/js_defer.I4cHjq6EEP.js:7)
+  B (https://www.liligo.fr/pagespeed_static/js_defer.I4cHjq6EEP.js:19)
+  (anonymous function) (https://www.liligo.fr/pagespeed_static/js_defer.I4cHjq6EEP.js:7)
+  B (https://www.liligo.fr/pagespeed_static/js_defer.I4cHjq6EEP.js:19)
+  c (https://www.liligo.fr/pagespeed_static/js_defer.I4cHjq6EEP.js:9)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-12-22T21:45:34.408Z] Session [f6048590-8241-11ed-bb19-b16f5a1cbf48] - page.onError - msg: null is not an object (evaluating 's.searchRequestDescriptor.toLocationCode')
+https://static.liligo.com/a/chunks/0-0.js?r=93670b7d57fcf4b2f46d:1 <div class="content" id="liligo_content" data-ng-view="" data-autoscroll="true" data-ng-animate="1">
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-12-22T21:45:34.408Z] Session [f6048590-8241-11ed-bb19-b16f5a1cbf48] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-12-22T21:45:36.414Z] Session [f6048590-8241-11ed-bb19-b16f5a1cbf48] - page.onError - msg: SyntaxError: Unexpected token '.'
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-12-22T21:45:36.414Z] Session [f6048590-8241-11ed-bb19-b16f5a1cbf48] - page.onError - stack:
+  insertBefore (https://www.liligo.fr/mobileweb_v4/:1)
+  u (https://www.liligo.fr/pagespeed_static/js_defer.I4cHjq6EEP.js:4)
+  (anonymous function) (https://www.liligo.fr/pagespeed_static/js_defer.I4cHjq6EEP.js:7)
+  B (https://www.liligo.fr/pagespeed_static/js_defer.I4cHjq6EEP.js:19)
+  (anonymous function) (https://www.liligo.fr/pagespeed_static/js_defer.I4cHjq6EEP.js:7)
+  B (https://www.liligo.fr/pagespeed_static/js_defer.I4cHjq6EEP.js:19)
+  c (https://www.liligo.fr/pagespeed_static/js_defer.I4cHjq6EEP.js:9)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2022-12-22T21:50:28.532Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-12-22T21:55:28.532Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
