@@ -1,0 +1,16 @@
+,VPN,Date,Depart,Arrivé,Prix,Temps de vol,Heure de départ,Heure d'arrivé,Nombre d'escales,Compagnies
+0,Macao,31/01/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",264 €,5h 10m,17:05,01:45,Direct,Air India
+1,Macao,31/01/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",278 €,5h 10m,17:05,01:45,Direct,Egyptair
+2,Macao,31/01/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",199 €,8h 25m,15:10,03:05,1 escale,Flynas
+3,Macao,31/01/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",199 €,10h 10m,13:25,03:05,1 escale,Flynas
+4,Macao,31/01/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",252 €,8h 5m,01:45,13:20,1 escale,Plusieurs compagnies
+5,Macao,31/01/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",256 €,8h 40m,16:05,04:15,1 escale,Air Arabia
+6,Macao,31/01/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",234 €,9h 30m,13:40,02:40,1 escale,Etihad Airways
+7,Macao,31/01/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",267 €,8h 50m,01:45,14:05,1 escale,Plusieurs compagnies
+8,Macao,31/01/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",238 €,10h 20m,23:30,13:20,1 escale,Plusieurs compagnies
+9,Macao,31/01/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",297 €,8h 25m,17:35,05:30,1 escale,Plusieurs compagnies
+10,Macao,31/01/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",199 €,12h 45m,10:50,03:05,1 escale,Flynas
+11,Macao,31/01/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",237 €,11h 5m,23:30,14:05,1 escale,Plusieurs compagnies
+12,Macao,31/01/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",314 €,8h 25m,18:45,06:40,1 escale,Oman Air
+13,Macao,31/01/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",308 €,8h 40m,01:00,13:10,1 escale,Oman Air
+14,Macao,31/01/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",320 €,8h 25m,17:35,05:30,1 escale,Plusieurs compagnies

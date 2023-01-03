@@ -1,0 +1,16 @@
+,VPN,Date,Depart,Arrivé,Prix,Temps de vol,Heure de départ,Heure d'arrivé,Nombre d'escales,Compagnies
+0,Luxembourg,30/01/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",10 €,2h 0m,09:50,10:50,Direct,Ryanair
+1,Luxembourg,30/01/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",42 €,2h 0m,07:25,08:25,Direct,Air Baltic
+2,Luxembourg,30/01/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",42 €,2h 0m,17:35,18:35,Direct,Air Baltic
+3,Luxembourg,30/01/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",24 €,5h 50m,12:15,17:05,1 escale,Ryanair
+4,Luxembourg,30/01/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",35 €,9h 0m,14:40,22:40,1 escale,Ryanair
+5,Luxembourg,30/01/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",90 €,3h 40m,06:05,08:45,1 escale,LOT Polish Airlines
+6,Luxembourg,30/01/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",90 €,4h 10m,13:50,17:00,1 escale,LOT Polish Airlines
+7,Luxembourg,30/01/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",100 €,5h 30m,07:00,11:30,1 escale,Plusieurs compagnies
+8,Luxembourg,30/01/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",151 €,4h 5m,17:15,20:20,1 escale,Plusieurs compagnies
+9,Luxembourg,30/01/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",33 €,19h 45m,16:15,11:00,1 escale,Ryanair
+10,Luxembourg,30/01/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",129 €,5h 5m,06:05,10:10,1 escale,Lufthansa
+11,Luxembourg,30/01/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",56 €,11h 40m,11:55,22:35,1 escale,Plusieurs compagnies
+12,Luxembourg,30/01/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",27 €,24h 50m,20:25,20:15,1 escale,Ryanair
+13,Luxembourg,30/01/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",129 €,5h 15m,15:00,19:15,1 escale,Lufthansa
+14,Luxembourg,30/01/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",57 €,11h 50m,11:45,22:35,1 escale,Wizz Air
