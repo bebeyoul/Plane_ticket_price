@@ -14,10 +14,10 @@ app = Flask(__name__)
 
 def home():
     # Lire le dataset avec Pandas
-    df = pd.read_excel('PIB_annuel_et_PPA_par_pays_utile.xlsx')
+    df = pd.read_csv('C:/Users/julie/OneDrive/Documents/GitHub/Plane_ticket_price/data/final_dataset.csv')
 
     # Sélectionner les colonnes à afficher
-    columns_to_display = ['Pays', 'PIB par habitant ($)']
+    columns_to_display = ["VPN", 'Date', 'Depart', 'Arrivé', 'Prix', 'Temps de vol','Heure de départ', "Heure d'arrivé", "Nombre d'escales", 'Compagnies', 'PIB par habitant ($)']
     data = df[columns_to_display]
 
     # Passer les données à la page HTML en utilisant Jinja2
