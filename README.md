@@ -1,9 +1,12 @@
 # Plane_ticket_price
 
+## Objectifs
 Les objectifs de ce projet sont :
 1. Proposer une interface conseillant les meilleurs prix pour un voyage, en précisant la position du VPN
 2. Démontrer qu'il existe, ou non, une relation entre le PIB des pays où le VPN a été posé et les prix des vols proposés
 
+
+## Etapes du projet
 Pour ce faire, nous avons :
 - Scrapé les données PIB des pays concernés (cf. PIB.ipynb)
 - Scrapé les vols (9 voyages préfédini, les 15 premiers vols) en variant le VPN (cf. vols.ipynb)
@@ -13,6 +16,7 @@ Pour ce faire, nous avons :
 - Créé une interface (python) pour la proposer les vols les plus malins (cf. launch_App.py)
 
 
+## VPN
 Pays où on pose le VPN (les 5 plus pauvres et plus riches) :
 1. Cambodge
 2. Bangladesh
@@ -26,6 +30,7 @@ Pays où on pose le VPN (les 5 plus pauvres et plus riches) :
 10. Liechtenstein
 
 
+## Voyages
 Nous avons choisis les voyages suivants:
 1.	Aéroport de Paris Charles de Gaulle, Paris, France – Aéroport international de Narita, Tokyo, Japon (France, Japon)
 2.	Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc – Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni (Maroc, Angleterre)
