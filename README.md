@@ -13,17 +13,6 @@ Pour ce faire, nous avons :
 - Créé une interface (python) pour la proposer les vols les plus malins (cf. launch_App.py)
 
 
-Nous avons choisis les voyages suivants:
-Voyages recherchés:
-1.	Aéroport de Paris Charles de Gaulle, Paris, France – Aéroport international de Narita, Tokyo, Japon (France, Japon)
-2.	Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc – Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni (Maroc, Angleterre)
-3.	Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie - Aéroport international OR Tambo, Johannesbourg, Afrique du sud (Italie, Afrique du sud)
-4.	Aéroport international de Riga, Riga, Lettonie - Vienna Schwechat International Airport, Vienne, Autriche (Lettonie – Autriche)
-5.	Aéroport international du Caire, Le Caire, Egypte - Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde (Egypte – Inde)
-6.	Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne – Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne (Espagne - îles Canarie - Espagne)
-7.	Aéroport international John F. Kennedy, New York, NY, Etats-Unis – Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis (US - US)
-8.	Aéroport de Paris Charles de Gaulle, Paris, France – Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie (France – Australie)
-
 Pays où on pose le VPN (les 5 plus pauvres et plus riches) :
 1. Cambodge
 2. Bangladesh
@@ -35,3 +24,14 @@ Pays où on pose le VPN (les 5 plus pauvres et plus riches) :
 8. Monaco
 9. Qatar
 10. Liechtenstein
+
+
+Nous avons choisis les voyages suivants:
+1.	Aéroport de Paris Charles de Gaulle, Paris, France – Aéroport international de Narita, Tokyo, Japon (France, Japon)
+2.	Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc – Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni (Maroc, Angleterre)
+3.	Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie - Aéroport international OR Tambo, Johannesbourg, Afrique du sud (Italie, Afrique du sud)
+4.	Aéroport international de Riga, Riga, Lettonie - Vienna Schwechat International Airport, Vienne, Autriche (Lettonie – Autriche)
+5.	Aéroport international du Caire, Le Caire, Egypte - Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde (Egypte – Inde)
+6.	Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne – Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne (Espagne - îles Canarie - Espagne)
+7.	Aéroport international John F. Kennedy, New York, NY, Etats-Unis – Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis (US - US)
+8.	Aéroport de Paris Charles de Gaulle, Paris, France – Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie (France – Australie)
