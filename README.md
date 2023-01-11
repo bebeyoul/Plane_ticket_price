@@ -9,7 +9,7 @@ Les objectifs de ce projet sont :
 ## Etapes du projet
 Pour ce faire, nous avons :
 - Scrapé les données PIB des pays concernés (cf. PIB.ipynb)
-- Scrapé les vols (9 voyages préfédini, les 15 premiers vols) en variant le VPN (cf. vols.ipynb)
+- Scrapé les vols (8 voyages préfédini, les 15 premiers vols) en variant le VPN (cf. vols.ipynb)
 - Puisque c'est un travail en duo, nous avons fusionné les datasets créés (cf. concatenation.ipynb)
 - Fusionné le dataset des vols avec le dataset du PIB
 - Analysé et visualisé les données (cf. analyse_de_donnees.ipynb)
