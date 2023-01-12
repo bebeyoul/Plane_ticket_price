@@ -22,11 +22,11 @@ liste_des_vols = [["Aéroport de Paris Charles de Gaulle, Paris, France","Aérop
 ["Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie"]]
 
 # import des données 
-data = pd.read_csv("final_dataset.csv")
-# data = pd.read_csv("data/final_dataset.csv")
+# data = pd.read_csv("final_dataset.csv")
+data = pd.read_csv("data/final_dataset.csv")
 
 # création de nouvelles colonnes pour manipuler le dataframe
-data["day"]=data["Date"].apply(lambda x: int(x.split("/")[0]) )
+# data["day"]=data["Date"].apply(lambda x: int(x.split("/")[0]) )
 data["heure"]=data["Heure de départ"].apply(lambda x: int(x[:2]))
 data["minute"]=data["Heure de départ"].apply(lambda x: int(x[3:]))
 
@@ -43,11 +43,12 @@ depart=trajet[0]
 arrive=trajet[1]
 
 
-day_to_filter = st.slider('Sélectionnez votre jours',1, 31, 30)
+# day_to_filter = st.slider('Sélectionnez votre jours',1, 31, 30)
+date_to_filter = st.selectbox(label='Sélectionnez votre jours de départ',options=data.Date.unique())
 hours_to_filter = st.slider('Sélectionnez votre heurs de départ',1, 24, 8)
 
 # Filtrer le dataframe selon les paramètres sélectionnés 
-df_to_plot=data[(data.day==day_to_filter) & (data["heure"]>hours_to_filter) & (data["Depart"]==depart) &(data["Arrivé"]==arrive)]
+df_to_plot=data[(data.Date==date_to_filter) & (data["heure"]>hours_to_filter) & (data["Depart"]==depart) &(data["Arrivé"]==arrive)]
 # Trier le dataframe par heure de départ croissante 
 df_to_plot.sort_values(by=["heure","minute"],inplace=True)
 
