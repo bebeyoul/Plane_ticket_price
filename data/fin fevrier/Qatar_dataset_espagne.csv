@@ -1,0 +1,211 @@
+,VPN,Date,Depart,Arrivé,Prix,Temps de vol,Heure de départ,Heure d'arrivé,Nombre d'escales,Compagnies
+0,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",708 €,19h 20m,12:30,15:50,1 escale,Thai Airways
+1,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",631 €,22h 0m,07:30,13:30,2 escales,China Airlines
+2,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",798 €,17h 35m,11:20,12:55,1 escale,Eva Air
+3,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",816 €,19h 10m,09:30,12:40,1 escale,Etihad Airways
+4,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",631 €,25h 5m,07:30,16:35,2 escales,China Airlines
+5,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",829 €,19h 20m,12:15,15:35,1 escale,Cathay Pacific
+6,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",957 €,16h 55m,12:15,13:10,1 escale,Cathay Pacific
+7,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",775 €,22h 20m,07:10,13:30,2 escales,Plusieurs compagnies
+8,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",801 €,24h 0m,11:20,19:20,1 escale,Eva Air
+9,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",812 €,24h 0m,09:20,17:20,2 escales,Plusieurs compagnies
+10,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",775 €,25h 25m,07:10,16:35,2 escales,Plusieurs compagnies
+11,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",1 113 €,18h 35m,15:20,17:55,1 escale,Qatar Airways
+12,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",596 €,39h 30m,19:45,19:15,1 escale,LOT Polish Airlines
+13,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",959 €,25h 5m,12:15,21:20,1 escale,Cathay Pacific
+14,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",740 €,33h 50m,13:10,07:00,1 escale,Vietnam Airlines
+15,Qatar,27/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",145 €,3h 15m,12:10,14:25,Direct,Royal Air Maroc
+16,Qatar,27/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",130 €,6h 0m,15:55,20:55,1 escale,Plusieurs compagnies
+17,Qatar,27/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",119 €,6h 45m,16:45,22:30,1 escale,Plusieurs compagnies
+18,Qatar,27/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",131 €,6h 35m,13:00,18:35,1 escale,Plusieurs compagnies
+19,Qatar,27/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",173 €,5h 25m,14:50,19:15,1 escale,Plusieurs compagnies
+20,Qatar,27/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",151 €,6h 15m,13:45,19:00,1 escale,Iberia
+21,Qatar,27/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",181 €,5h 15m,13:45,18:00,1 escale,Plusieurs compagnies
+22,Qatar,27/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",160 €,6h 10m,13:00,18:10,1 escale,Plusieurs compagnies
+23,Qatar,27/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",178 €,5h 40m,16:15,20:55,1 escale,Plusieurs compagnies
+24,Qatar,27/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",126 €,8h 5m,12:20,19:25,1 escale,Plusieurs compagnies
+25,Qatar,27/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",169 €,6h 15m,13:45,19:00,1 escale,Plusieurs compagnies
+26,Qatar,27/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",178 €,6h 15m,13:45,19:00,1 escale,Plusieurs compagnies
+27,Qatar,27/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",107 €,11h 30m,21:15,07:45,1 escale,Plusieurs compagnies
+28,Qatar,27/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",114 €,11h 30m,21:15,07:45,1 escale,Plusieurs compagnies
+29,Qatar,27/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",221 €,6h 0m,14:10,19:10,1 escale,Plusieurs compagnies
+30,Qatar,27/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",467 €,13h 25m,22:40,13:05,1 escale,Ethiopian Airlines
+31,Qatar,27/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",564 €,13h 15m,20:05,10:20,1 escale,Swiss
+32,Qatar,27/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",496 €,15h 10m,06:00,22:10,1 escale,KLM
+33,Qatar,27/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",533 €,14h 15m,17:40,08:55,1 escale,Air France
+34,Qatar,27/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",561 €,13h 55m,18:40,09:35,1 escale,Lufthansa
+35,Qatar,27/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",541 €,15h 10m,16:45,08:55,1 escale,Air France
+36,Qatar,27/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",500 €,16h 35m,13:45,07:20,1 escale,Plusieurs compagnies
+37,Qatar,27/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",456 €,18h 45m,14:50,10:35,1 escale,Turkish Airlines
+38,Qatar,27/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",500 €,17h 15m,17:15,11:30,1 escale,Plusieurs compagnies
+39,Qatar,27/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",628 €,13h 55m,19:40,10:35,1 escale,Turkish Airlines
+40,Qatar,27/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",582 €,15h 35m,17:00,09:35,2 escales,Plusieurs compagnies
+41,Qatar,27/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",536 €,17h 0m,15:40,09:40,1 escale,Qatar Airways
+42,Qatar,27/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",536 €,17h 15m,09:45,04:00,1 escale,Qatar Airways
+43,Qatar,27/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",558 €,16h 40m,15:15,08:55,1 escale,Plusieurs compagnies
+44,Qatar,27/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",573 €,16h 25m,16:10,09:35,2 escales,Lufthansa
+45,Qatar,27/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",22 €,2h 0m,09:50,10:50,Direct,Ryanair
+46,Qatar,27/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",30 €,2h 0m,17:35,18:35,Direct,Air Baltic
+47,Qatar,27/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",40 €,2h 0m,07:25,08:25,Direct,Air Baltic
+48,Qatar,27/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",44 €,5h 50m,12:15,17:05,1 escale,Ryanair
+49,Qatar,27/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",96 €,3h 40m,06:05,08:45,1 escale,LOT Polish Airlines
+50,Qatar,27/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",44 €,9h 0m,14:40,22:40,1 escale,Ryanair
+51,Qatar,27/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",96 €,4h 10m,13:50,17:00,1 escale,LOT Polish Airlines
+52,Qatar,27/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",54 €,9h 50m,12:55,21:45,1 escale,Plusieurs compagnies
+53,Qatar,27/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",155 €,4h 5m,17:15,20:20,1 escale,Plusieurs compagnies
+54,Qatar,27/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",156 €,4h 10m,07:15,10:25,1 escale,Plusieurs compagnies
+55,Qatar,27/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",103 €,6h 20m,12:15,17:35,1 escale,Plusieurs compagnies
+56,Qatar,27/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",115 €,5h 55m,13:35,18:30,1 escale,Finnair
+57,Qatar,27/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",59 €,11h 40m,11:55,22:35,1 escale,Plusieurs compagnies
+58,Qatar,27/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",132 €,5h 15m,15:00,19:15,1 escale,Lufthansa
+59,Qatar,27/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",28 €,24h 50m,20:25,20:15,1 escale,Ryanair
+60,Qatar,27/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",121 €,9h 30m,13:40,02:40,1 escale,Etihad Airways
+61,Qatar,27/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",121 €,9h 40m,06:00,19:10,1 escale,Etihad Airways
+62,Qatar,27/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",144 €,9h 55m,11:40,01:05,1 escale,Saudia
+63,Qatar,27/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",122 €,12h 0m,15:00,06:30,1 escale,Saudia
+64,Qatar,27/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",205 €,8h 25m,15:10,03:05,1 escale,Flynas
+65,Qatar,27/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",163 €,11h 30m,13:55,04:55,1 escale,Gulf Air
+66,Qatar,27/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",122 €,16h 35m,10:25,06:30,1 escale,Saudia
+67,Qatar,27/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",205 €,10h 10m,13:25,03:05,1 escale,Flynas
+68,Qatar,27/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",121 €,17h 10m,06:00,02:40,1 escale,Etihad Airways
+69,Qatar,27/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",249 €,8h 40m,16:05,04:15,1 escale,Air Arabia
+70,Qatar,27/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",267 €,8h 30m,16:15,04:15,1 escale,Plusieurs compagnies
+71,Qatar,27/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",463 €,5h 10m,17:05,01:45,Direct,Air India
+72,Qatar,27/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",482 €,5h 10m,17:05,01:45,Direct,Egyptair
+73,Qatar,27/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",246 €,10h 20m,23:30,13:20,1 escale,Plusieurs compagnies
+74,Qatar,27/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",307 €,8h 25m,18:45,06:40,1 escale,Oman Air
+75,Qatar,27/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",19 €,3h 5m,06:35,08:40,Direct,Ryanair
+76,Qatar,27/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",19 €,3h 5m,15:35,17:40,Direct,Ryanair
+77,Qatar,27/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",47 €,5h 10m,07:20,11:30,1 escale,Plusieurs compagnies
+78,Qatar,27/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",62 €,5h 10m,07:20,11:30,1 escale,Plusieurs compagnies
+79,Qatar,27/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",49 €,8h 0m,07:30,14:30,1 escale,Plusieurs compagnies
+80,Qatar,27/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",124 €,3h 10m,11:40,13:50,Direct,Iberia
+81,Qatar,27/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",125 €,3h 10m,11:40,13:50,Direct,Iberia Express
+82,Qatar,27/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",45 €,9h 0m,09:35,17:35,1 escale,Plusieurs compagnies
+83,Qatar,27/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",58 €,7h 25m,13:30,19:55,1 escale,Ryanair
+84,Qatar,27/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",62 €,7h 5m,11:30,17:35,1 escale,Plusieurs compagnies
+85,Qatar,27/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",44 €,10h 45m,07:40,17:25,1 escale,Ryanair
+86,Qatar,27/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",64 €,8h 0m,07:30,14:30,1 escale,Plusieurs compagnies
+87,Qatar,27/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",63 €,8h 35m,12:20,19:55,1 escale,Plusieurs compagnies
+88,Qatar,27/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",184 €,3h 5m,22:45,00:50,Direct,Iberia
+89,Qatar,27/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",185 €,3h 5m,22:45,00:50,Direct,Iberia Express
+90,Qatar,27/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",148 €,6h 26m,21:29,00:55,Direct,Delta Air Lines
+91,Qatar,27/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",152 €,6h 18m,12:00,15:18,Direct,JetBlue
+92,Qatar,27/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",152 €,6h 19m,05:45,09:04,Direct,JetBlue
+93,Qatar,27/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",152 €,6h 24m,07:00,10:24,Direct,JetBlue
+94,Qatar,27/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",152 €,6h 26m,22:15,01:41,Direct,JetBlue
+95,Qatar,27/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",149 €,6h 34m,20:35,00:09,Direct,American Airlines
+96,Qatar,27/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",152 €,6h 28m,09:45,13:13,Direct,JetBlue
+97,Qatar,27/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",149 €,6h 36m,16:00,19:36,Direct,American Airlines
+98,Qatar,27/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",152 €,6h 29m,08:50,12:19,Direct,JetBlue
+99,Qatar,27/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",152 €,6h 30m,17:29,20:59,Direct,JetBlue
+100,Qatar,27/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",152 €,6h 30m,20:10,23:40,Direct,JetBlue
+101,Qatar,27/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",152 €,6h 30m,21:15,00:45,Direct,JetBlue
+102,Qatar,27/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",157 €,6h 25m,10:20,13:45,Direct,Delta Air Lines
+103,Qatar,27/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",158 €,6h 28m,15:59,19:27,Direct,JetBlue
+104,Qatar,27/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",157 €,6h 35m,08:45,12:20,Direct,Delta Air Lines
+105,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",1 048 €,22h 35m,12:15,20:50,1 escale,Cathay Pacific
+106,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",1 140 €,22h 5m,14:25,22:30,1 escale,Emirates
+107,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",1 148 €,22h 5m,14:25,22:30,1 escale,Qantas Airways
+108,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",1 157 €,22h 5m,14:25,22:30,1 escale,Plusieurs compagnies
+109,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",984 €,26h 0m,18:55,06:55,2 escales,Plusieurs compagnies
+110,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",964 €,26h 50m,18:05,06:55,1 escale,British Airways
+111,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",1 099 €,24h 20m,08:25,18:45,1 escale,Qatar Airways
+112,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",989 €,27h 20m,19:00,08:20,1 escale,Asiana Airlines
+113,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",1 285 €,21h 15m,10:40,17:55,1 escale,Singapore Airlines
+114,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",925 €,30h 0m,18:55,10:55,2 escales,Plusieurs compagnies
+115,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",1 236 €,23h 25m,21:35,07:00,1 escale,Emirates
+116,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",1 244 €,23h 25m,21:35,07:00,1 escale,Qantas Airways
+117,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",1 249 €,23h 20m,12:30,21:50,1 escale,Thai Airways
+118,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",941 €,31h 0m,17:55,10:55,2 escales,Plusieurs compagnies
+119,Qatar,27/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",925 €,31h 40m,17:15,10:55,2 escales,Plusieurs compagnies
+120,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",650 €,15h 30m,19:45,19:15,1 escale,LOT Polish Airlines
+121,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",634 €,22h 0m,07:30,13:30,2 escales,China Airlines
+122,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",799 €,17h 35m,11:20,12:55,1 escale,Eva Air
+123,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",728 €,19h 20m,12:15,15:35,1 escale,Cathay Pacific
+124,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",735 €,19h 20m,12:30,15:50,1 escale,Thai Airways
+125,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",853 €,16h 55m,12:15,13:10,1 escale,Cathay Pacific
+126,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",816 €,19h 10m,09:30,12:40,1 escale,Etihad Airways
+127,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",828 €,19h 0m,16:15,19:15,2 escales,Plusieurs compagnies
+128,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",634 €,25h 5m,07:30,16:35,2 escales,China Airlines
+129,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",657 €,24h 25m,10:50,19:15,1 escale,LOT Polish Airlines
+130,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",670 €,24h 5m,13:15,21:20,3 escales,Plusieurs compagnies
+131,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",828 €,20h 10m,15:05,19:15,2 escales,Plusieurs compagnies
+132,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",850 €,19h 45m,15:30,19:15,2 escales,Plusieurs compagnies
+133,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",746 €,23h 5m,08:30,15:35,2 escales,Plusieurs compagnies
+134,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport international de Narita, Tokyo, Japon",814 €,21h 10m,10:25,15:35,2 escales,Plusieurs compagnies
+135,Qatar,28/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",94 €,5h 15m,13:45,18:00,1 escale,Plusieurs compagnies
+136,Qatar,28/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",95 €,6h 15m,13:45,19:00,1 escale,Plusieurs compagnies
+137,Qatar,28/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",103 €,6h 15m,13:45,19:00,1 escale,Iberia
+138,Qatar,28/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",112 €,6h 15m,13:45,19:00,1 escale,Plusieurs compagnies
+139,Qatar,28/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",166 €,5h 25m,14:50,19:15,1 escale,Plusieurs compagnies
+140,Qatar,28/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",149 €,6h 15m,13:45,19:00,1 escale,Plusieurs compagnies
+141,Qatar,28/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",156 €,6h 15m,15:55,21:10,1 escale,Plusieurs compagnies
+142,Qatar,28/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",145 €,6h 45m,17:00,22:45,1 escale,Plusieurs compagnies
+143,Qatar,28/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",179 €,6h 10m,14:10,19:20,1 escale,Plusieurs compagnies
+144,Qatar,28/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",193 €,5h 45m,11:00,15:45,1 escale,Plusieurs compagnies
+145,Qatar,28/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",166 €,6h 45m,16:45,22:30,1 escale,Plusieurs compagnies
+146,Qatar,28/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",182 €,6h 20m,11:20,16:40,1 escale,Plusieurs compagnies
+147,Qatar,28/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",190 €,6h 45m,17:00,22:45,1 escale,Plusieurs compagnies
+148,Qatar,28/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",212 €,6h 10m,15:30,20:40,1 escale,Plusieurs compagnies
+149,Qatar,28/02/2023,"Aéroport international Mohammed-V de Casablanca, Casablanca, Maroc","Aéroport international de Gatwick, Londres, Angleterre, Royaume-Uni",154 €,8h 40m,11:15,18:55,1 escale,Plusieurs compagnies
+150,Qatar,28/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",466 €,13h 25m,22:40,13:05,1 escale,Ethiopian Airlines
+151,Qatar,28/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",455 €,13h 55m,19:40,10:35,1 escale,Turkish Airlines
+152,Qatar,28/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",409 €,16h 30m,13:05,06:35,1 escale,Egyptair
+153,Qatar,28/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",318 €,21h 40m,09:20,08:00,1 escale,Etihad Airways
+154,Qatar,28/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",563 €,13h 15m,20:05,10:20,1 escale,Swiss
+155,Qatar,28/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",474 €,16h 30m,13:05,06:35,1 escale,Plusieurs compagnies
+156,Qatar,28/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",565 €,14h 15m,17:40,08:55,1 escale,Air France
+157,Qatar,28/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",545 €,15h 10m,16:45,08:55,1 escale,Air France
+158,Qatar,28/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",514 €,16h 30m,13:05,06:35,1 escale,Plusieurs compagnies
+159,Qatar,28/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",455 €,18h 45m,14:50,10:35,1 escale,Turkish Airlines
+160,Qatar,28/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",417 €,21h 5m,12:50,10:55,2 escales,Plusieurs compagnies
+161,Qatar,28/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",519 €,17h 10m,17:20,11:30,1 escale,Plusieurs compagnies
+162,Qatar,28/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",580 €,15h 35m,17:00,09:35,2 escales,Plusieurs compagnies
+163,Qatar,28/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",536 €,17h 0m,15:40,09:40,1 escale,Qatar Airways
+164,Qatar,28/02/2023,"Aéroport Léonard de Vinci de Rome-Fiumicino, Rome, Italie","Aéroport international OR Tambo, Johannesbourg, Afrique du sud",536 €,17h 15m,09:45,04:00,1 escale,Qatar Airways
+165,Qatar,28/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",85 €,2h 0m,07:25,08:25,Direct,Air Baltic
+166,Qatar,28/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",63 €,5h 20m,07:05,11:25,1 escale,Plusieurs compagnies
+167,Qatar,28/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",76 €,6h 5m,07:10,12:15,1 escale,Plusieurs compagnies
+168,Qatar,28/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",40 €,14h 20m,22:10,11:30,1 escale,Ryanair
+169,Qatar,28/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",49 €,12h 10m,11:40,22:50,1 escale,Ryanair
+170,Qatar,28/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",119 €,5h 20m,07:05,11:25,1 escale,Plusieurs compagnies
+171,Qatar,28/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",71 €,9h 0m,13:50,21:50,1 escale,Plusieurs compagnies
+172,Qatar,28/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",76 €,9h 10m,07:40,15:50,1 escale,Plusieurs compagnies
+173,Qatar,28/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",117 €,6h 40m,13:50,19:30,2 escales,Plusieurs compagnies
+174,Qatar,28/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",58 €,14h 35m,22:10,11:45,1 escale,Plusieurs compagnies
+175,Qatar,28/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",63 €,13h 40m,09:30,22:10,1 escale,Ryanair
+176,Qatar,28/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",127 €,6h 50m,16:50,22:40,1 escale,KLM
+177,Qatar,28/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",130 €,6h 50m,16:50,22:40,1 escale,Plusieurs compagnies
+178,Qatar,28/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",119 €,7h 35m,12:45,19:20,1 escale,Plusieurs compagnies
+179,Qatar,28/02/2023,"Aéroport international de Riga, Riga, Lettonie","Vienna Schwechat International Airport, Vienne, Autriche",122 €,7h 40m,12:40,19:20,2 escales,Plusieurs compagnies
+180,Qatar,28/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",238 €,5h 10m,17:05,01:45,Direct,Air India
+181,Qatar,28/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",275 €,5h 10m,17:05,01:45,Direct,Egyptair
+182,Qatar,28/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",181 €,9h 25m,19:45,08:40,1 escale,Saudia
+183,Qatar,28/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",196 €,9h 30m,13:40,02:40,1 escale,Etihad Airways
+184,Qatar,28/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",225 €,8h 25m,15:10,03:05,1 escale,Flynas
+185,Qatar,28/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",180 €,11h 30m,13:55,04:55,1 escale,Gulf Air
+186,Qatar,28/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",256 €,8h 25m,17:35,05:30,1 escale,Plusieurs compagnies
+187,Qatar,28/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",261 €,8h 40m,16:05,04:15,1 escale,Air Arabia
+188,Qatar,28/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",257 €,8h 50m,01:45,14:05,1 escale,Plusieurs compagnies
+189,Qatar,28/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",225 €,10h 10m,13:25,03:05,1 escale,Flynas
+190,Qatar,28/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",181 €,12h 50m,16:20,08:40,1 escale,Saudia
+191,Qatar,28/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",239 €,10h 20m,23:30,13:20,1 escale,Plusieurs compagnies
+192,Qatar,28/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",295 €,8h 25m,18:45,06:40,1 escale,Oman Air
+193,Qatar,28/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",295 €,8h 40m,01:00,13:10,1 escale,Oman Air
+194,Qatar,28/02/2023,"Aéroport international du Caire, Le Caire, Egypte","Chhatrapati Shivaji International Airport, Mumbai, Maharashtra, Inde",237 €,11h 5m,23:30,14:05,1 escale,Plusieurs compagnies
+195,Qatar,28/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",19 €,3h 5m,07:15,09:20,Direct,Ryanair
+196,Qatar,28/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",42 €,3h 4m,21:55,23:59,Direct,Iberia Express
+197,Qatar,28/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",48 €,3h 10m,11:40,13:50,Direct,Iberia Express
+198,Qatar,28/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",53 €,3h 4m,21:55,23:59,Direct,Iberia
+199,Qatar,28/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",56 €,3h 10m,11:40,13:50,Direct,Iberia
+200,Qatar,28/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",34 €,6h 0m,13:10,18:10,1 escale,Ryanair
+201,Qatar,28/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",165 €,3h 4m,21:55,23:59,Direct,Vueling
+202,Qatar,28/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",165 €,3h 10m,11:40,13:50,Direct,Vueling
+203,Qatar,28/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",85 €,6h 45m,17:15,23:00,1 escale,Plusieurs compagnies
+204,Qatar,28/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",93 €,6h 15m,13:45,19:00,1 escale,Plusieurs compagnies
+205,Qatar,28/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",53 €,11h 30m,07:35,18:05,1 escale,Plusieurs compagnies
+206,Qatar,28/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",56 €,11h 10m,06:10,16:20,1 escale,Ryanair
+207,Qatar,28/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",45 €,14h 50m,19:50,09:40,1 escale,Plusieurs compagnies
+208,Qatar,28/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",38 €,19h 0m,22:10,16:10,1 escale,easyJet
+209,Qatar,28/02/2023,"Aéroport Adolfo-Suárez de Madrid-Barajas, Madrid, Madrid, Espagne","Aéroport international Reina Sofía de Tenerife Sud, Ténérife, Îles Canaries, Espagne",56 €,12h 55m,06:10,18:05,1 escale,Ryanair

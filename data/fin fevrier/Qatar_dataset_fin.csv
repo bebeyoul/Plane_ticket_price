@@ -1,0 +1,31 @@
+,VPN,Date,Depart,Arrivé,Prix,Temps de vol,Heure de départ,Heure d'arrivé,Nombre d'escales,Compagnies
+0,Qatar,28/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",93 €,6h 19m,05:45,09:04,Direct,JetBlue
+1,Qatar,28/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",93 €,6h 24m,07:00,10:24,Direct,JetBlue
+2,Qatar,28/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",93 €,6h 26m,22:15,01:41,Direct,JetBlue
+3,Qatar,28/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",93 €,6h 28m,09:45,13:13,Direct,JetBlue
+4,Qatar,28/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",93 €,6h 28m,15:59,19:27,Direct,JetBlue
+5,Qatar,28/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",93 €,6h 29m,08:50,12:19,Direct,JetBlue
+6,Qatar,28/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",93 €,6h 30m,17:29,20:59,Direct,JetBlue
+7,Qatar,28/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",93 €,6h 30m,20:10,23:40,Direct,JetBlue
+8,Qatar,28/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",93 €,6h 30m,21:15,00:45,Direct,JetBlue
+9,Qatar,28/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",97 €,6h 26m,10:30,13:56,Direct,American Airlines
+10,Qatar,28/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",97 €,6h 27m,07:30,10:57,Direct,American Airlines
+11,Qatar,28/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",97 €,6h 28m,19:35,23:03,Direct,American Airlines
+12,Qatar,28/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",97 €,6h 30m,06:00,09:30,Direct,American Airlines
+13,Qatar,28/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",97 €,6h 34m,20:35,00:09,Direct,American Airlines
+14,Qatar,28/02/2023,"Aéroport international John F. Kennedy, New York, NY, Etats-Unis","Aéroport international de Los Angeles, Los Angeles, CA, Etats-Unis",105 €,6h 18m,12:00,15:18,Direct,JetBlue
+15,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",769 €,26h 15m,07:30,19:45,2 escales,China Airlines
+16,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",889 €,26h 20m,07:25,19:45,2 escales,Plusieurs compagnies
+17,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",1 035 €,23h 20m,12:30,21:50,1 escale,Thai Airways
+18,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",947 €,26h 35m,07:10,19:45,2 escales,Plusieurs compagnies
+19,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",842 €,30h 0m,18:55,10:55,2 escales,Plusieurs compagnies
+20,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",1 157 €,22h 5m,14:25,22:30,1 escale,Emirates
+21,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",1 178 €,22h 5m,14:25,22:30,1 escale,Qantas Airways
+22,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",1 202 €,22h 5m,14:25,22:30,1 escale,Plusieurs compagnies
+23,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",842 €,31h 40m,17:15,10:55,2 escales,Plusieurs compagnies
+24,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",1 097 €,24h 20m,08:25,18:45,1 escale,Qatar Airways
+25,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",951 €,28h 20m,20:35,10:55,3 escales,Plusieurs compagnies
+26,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",842 €,33h 25m,15:30,10:55,2 escales,Plusieurs compagnies
+27,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",1 238 €,23h 25m,21:35,07:00,1 escale,Emirates
+28,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",924 €,31h 25m,16:10,09:35,2 escales,British Airways
+29,Qatar,28/02/2023,"Aéroport de Paris Charles de Gaulle, Paris, France","Aéroport Kingsford Smith de Sydney, Sydney, Nouvelles Galles du Sud, Australie",1 246 €,23h 25m,21:35,07:00,1 escale,Plusieurs compagnies
